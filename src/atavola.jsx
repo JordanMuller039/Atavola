@@ -1,5 +1,5 @@
-import { useState, useEffect, useRef, useCallback } from "react";
-import { Phone, Mail, MapPin, ChevronDown } from "lucide-react";
+import { useState, useEffect, useRef } from "react";
+import { Phone, ChevronDown } from "lucide-react";
 
 const C = {
   bg: "#0C0908",
